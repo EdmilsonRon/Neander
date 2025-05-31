@@ -16,6 +16,6 @@
         HLT            ; Fim do programa
 
 ; Dados
-NUM:      DB 3         ; Número a multiplicar (mude aqui)
-ZERO:     DB 0         ; Constante zero
+NUM:      DB 3         ; Número a multiplicar (nesse caso o 3)
+ZERO:     DB 0         
 RESULT:   DB 0         ; Armazena o resultado (NUM * 5)
