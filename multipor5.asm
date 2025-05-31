@@ -1,3 +1,8 @@
+;---------------------------------------------------
+; Programa:multiplicação por 5
+; Autor:Edmilson ronaldy
+; Data:30-05-2025
+;---------------------------------------------------
         LDA ZERO       ; ACC = 0
         STA RESULT     ; RESULT = 0 (zera o acumulador de resultado)
 
