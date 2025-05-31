@@ -6,7 +6,7 @@
         LDA ZERO       ; ACC = 0
         STA RESULT     ; RESULT = 0 (zera o acumulador de resultado)
 
-        LDA NUM        ; a ideia é que armazene o numero e depois multiplique por 5
+        LDA NUM        ; a ideia é que armazene o numero e depois multiplique por 5, o que na pratica está fazendo apenas somar 5 vezes
         ADD NUM        ;
         ADD NUM        ;
         ADD NUM        ;
